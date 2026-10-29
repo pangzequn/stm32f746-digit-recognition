@@ -1,0 +1,10 @@
+{
+  "board": "STM32F746G-DISCO",
+  "device": "STM32F746NGH7",
+  "core": "Cortex-M7",
+  "order": 0,
+  "toolchain": "GCC",
+  "source": {
+    "sourceType": "STM32CubeIDE"
+  }
+}
